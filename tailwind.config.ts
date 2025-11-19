@@ -47,6 +47,9 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        listening: "hsl(var(--listening))",
+        processing: "hsl(var(--processing))",
+        success: "hsl(var(--success))",
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
